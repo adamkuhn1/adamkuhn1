@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi, I'm Adam 👋
 
-<!--
-**adamkuhn1/adamkuhn1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+CS student who builds practical backend and full-stack projects. I like clean structure, reliable systems, and shipping things that work.
 
-Here are some ideas to get you started:
+### What I'm working on
+Backend services, real-time dashboards, and small tools that automate useful tasks.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Tools I use
+Python, TypeScript, Java  
+FastAPI, Node.js, PostgreSQL, Redis  
+React, Next.js, Docker, GitHub Actions
+
+### Reach me
+Email: kuhn1aj@cmich.edu  
+LinkedIn: https://www.linkedin.com/in/adam-kuhncmich/
