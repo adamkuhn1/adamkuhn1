@@ -1,6 +1,6 @@
 # Hi, I'm Adam 👋
 
-CS student building **backend and full-stack projects** with a focus on clean structure, reliability, and practical problem-solving.
+I'm a CS student building full-stack and backend projects with a focus on clean structure, reliability, and practical problem-solving.
 
 **What I'm working on**  
 Full-stack apps, real-time dashboards, and small tools that automate useful tasks.
